@@ -23,7 +23,7 @@ This project was also developed as practice for SwiftUI and state management, as
 
 ## 📹 Software Demo
 
-[Software Demo Video](pending)
+[Software Demo Video](https://youtu.be/c4ERhjJd8os)
 
 
 ## 💻 Development Environment
