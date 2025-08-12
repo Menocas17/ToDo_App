@@ -1,0 +1,15 @@
+//
+//  .gitignore
+//  To_do_App
+//
+//  Created by Rodolfo Menocal on 12/8/25.
+//
+
+# macOS
+.DS_Store
+
+# Xcode
+build/
+DerivedData/
+*.xcuserstate
+xcuserdata/
