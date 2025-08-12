@@ -4,12 +4,13 @@
 The app automatically separates tasks into two sections: Pending and Completed, making it easier to track daily progress
 
 How to use the app:
-	1.	On the main screen, add a new task using the ”+” button.
-	2.	Tasks will appear in the “To Do” section.
-	3.	Mark a task as completed by tapping the circular icon.
-	4.	Completed tasks will automatically move to the “Completed” section.
-	5.	Delete tasks by swiping left on them.
-	6.	If there are no pending or completed tasks, a message will appear indicating that there are no tasks.
+
+1. On the main screen, add a new task using the ”+” button.
+2. Tasks will appear in the “To Do” section.
+3. Mark a task as completed by tapping the circular icon.
+4. Completed tasks will automatically move to the “Completed” section.
+5. Delete tasks by swiping left on them.
+6. If there are no pending or completed tasks, a message will appear indicating that there are no tasks.
 
 ---
 
