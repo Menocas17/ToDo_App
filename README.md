@@ -1,16 +1,22 @@
 # 📘 Switf ToDo App
 
-**Lerniq** is an online learning platform where users can create their own personalized paths to success. With Lerniq, you choose what you want to learn and define your own course topics, allowing you to build a unique learning journey tailored to your goals — and share it with others to help them learn too!
+**ToDo** App is a simple and minimalist application built with SwiftUI that allows users to quickly and efficiently manage their tasks.
+The app automatically separates tasks into two sections: Pending and Completed, making it easier to track daily progress
+
+How to use the app:
+	1.	On the main screen, add a new task using the ”+” button.
+	2.	Tasks will appear in the “To Do” section.
+	3.	Mark a task as completed by tapping the circular icon.
+	4.	Completed tasks will automatically move to the “Completed” section.
+	5.	Delete tasks by swiping left on them.
+	6.	If there are no pending or completed tasks, a message will appear indicating that there are no tasks.
 
 ---
 
 ## 🎯 Purpose of the Project
 
-The main goals of building this software were:
-
-- To strengthen my knowledge of modern web development frameworks like **Next.js** (frontend) and **NestJS** (backend).
-- To improve my skills in web styling using **Tailwind CSS**.
-- To create a personal learning tool that helps track progress, overcome learning barriers, and make the process more structured and motivating.
+The purpose of this application is to provide a fast, intuitive, and distraction-free tool for task management, ideal for users looking for a lightweight solution to organize their day.
+This project was also developed as practice for SwiftUI and state management, as well as to implement user interaction features such as toggling, dynamic sections, and data persistence.
 
 ---
 
